@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Assignment1_App</string>
+    <string-array name="options_array_0">
+        <item>a) Nablus. </item>
+        <item>b) Jericho. </item>
+        <item>c) Bethlehem. </item>
+        <item>d) Jerusalem. </item>
+    </string-array>
+
+    <string-array name="options_array_1">
+        <item>a) Msakhan. </item>
+        <item>b) Kufta. </item>
+        <item>c) Steak. </item>
+        <item>d) pasta. </item>
+    </string-array>
+
+    <string-array name="options_array_2">
+        <item>a) 3 gates. </item>
+        <item>b) 11 gates (4 of them are closed). </item>
+        <item>c) 15 gates. </item>
+        <item>d) 8 gates. </item>
+    </string-array>
+
+    <string-array name="options_array_3">
+        <item>a) Hebrew. </item>
+        <item>b) English. </item>
+        <item>c) Arabic. </item>
+        <item>d) Italian. </item>
+    </string-array>
+
+    <string-array name="options_array_4">
+        <item>a) 5 </item>
+        <item>b) 2 </item>
+        <item>c) 4 </item>
+        <item>d) 3 </item>
+    </string-array>
+
+    <string-array name="options_array_5">
+        <item>a) The Mediterranean Sea. </item>
+        <item>b) The Dead Sea. </item>
+        <item>c) The Red Sea. </item>
+        <item>d) The Black Sea. </item>
+    </string-array>
+
+    <string-array name="options_array_6">
+        <item>a) Mandeel. </item>
+        <item>b) Hat. </item>
+        <item>c) Palestinian traditional dress. </item>
+        <item>d) Kuffiyeh. </item>
+    </string-array>
+
+    <string-array name="options_array_7">
+        <item>a) Jerusalem Old-City. </item>
+        <item>b) Bethlehem. </item>
+        <item>c) Nazareth. </item>
+        <item>d) Egypt. </item>
+    </string-array>
+
+    <string-array name="options_array_8">
+        <item>a) Naksa. </item>
+        <item>b) The first intifada. </item>
+        <item>c) Nakba. </item>
+        <item>d) Balfour Declaration. </item>
+    </string-array>
+
+    <string-array name="options_array_9">
+        <item>a) Mahmoud Darwish. </item>
+        <item>b) Nizar Qabani. </item>
+        <item>c) Ghassan Kanafani. </item>
+        <item>d) Gibran Kahlil Gibran. </item>
+    </string-array>
+
+</resources>
